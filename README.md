@@ -52,7 +52,14 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-005A70?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/VirtualBox-214478?style=for-the-badge&logo=virtualbox&logoColor=white" />
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" />
+  <img src="https://img.shields.io/badge/FL%20Studio-FFBE00?style=for-the-badge&logo=fl-studio&logoColor=black" />
+  <img src="https://img.shields.io/badge/Microsoft%20365-0078D4?style=for-the-badge&logo=microsoft-365&logoColor=white" />
+  
 </p>
+
 
 
 <h3 align="left">Contactate conmigo:</h3>
